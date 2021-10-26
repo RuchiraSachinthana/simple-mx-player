@@ -246,5 +246,18 @@ input[type=range]::-webkit-slider-thumb{
 
 }
 
+.designer{
 
+	font-size: 12px;
+	font-family: calibri;
+}
+
+.designer a{
+	text-decoration: none;
+}
+
+.designer a:hover{
+	
+	color: gray;
+}
 

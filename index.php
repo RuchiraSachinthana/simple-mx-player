@@ -76,6 +76,11 @@
 			</div>
 		</div>
 	</div>
+	<div class="designer">
+
+		<p> Designed by <a href="https://ruchiras.com" target="_blank">RUCHIRA</a></p>
+		
+	</div>
 
    <!--  javascript part -->
 	<script>
