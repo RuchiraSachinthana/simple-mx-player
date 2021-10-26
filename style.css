@@ -201,14 +201,14 @@ body{
    background: #1C2833;
 }
 .playlist .p_song:hover button{
-	background: #FF5722;
+	background: #880a05;
 }
 .main .active_song{
 	background: #1C2833;
 	box-shadow: none;
 }
 .playlist .active_song button{
-	background: linear-gradient(to right, #FF5722, #FF7043);
+	background: linear-gradient(to right, #921803, #b40c06);
 	box-shadow: 0.1px 8px 8px 2px rgba(0,0,0,0.2) inset,
 	            0.1px 8px 8px 2px rgba(0,0,0,0.2);
 }
@@ -240,7 +240,7 @@ input[type=range]::-webkit-slider-thumb{
 	border-radius: 50%;
 	cursor: pointer;
 	z-index: 10;
-	background: linear-gradient(to right, #FF5722, #FF7043);
+	background: linear-gradient(to right, #921803, #b40c06);
 	box-shadow: 0.1px 8px 8px 2px rgba(0,0,0,0.2) inset,
 	            0.1px 8px 8px 2px rgba(0,0,0,0.2);
 
